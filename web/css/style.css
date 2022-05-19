@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.container {
+    display: flex;
+}
+
+.left-part {
+    background-color: #2c2f33;
+    width: 15vw;
+}
+
+.center-part {
+    background-color: #23272a;
+    width: 85vw;
+    height: 100vh;
+}
+
+.center-part p {
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    padding: 2% 5% 0 5%;
+}
